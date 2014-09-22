@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My V\'Lille Simple</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="stations">Stations</string>
+    <string name="carte">Carte</string>
+    <string name="title_activity_map">Carte des stations</string>
+    <string name="image_content_description">Carte des stations V\'Lille</string>
+    <string name="warning">Attention! Ceci est une version d\'essai non cliquable!</string>
+    <string name="favoris">Favoris</string>
+    <string name="title_activity_favoris">Mes stations favorites</string>
+
+</resources>
